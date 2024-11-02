@@ -1,0 +1,1475 @@
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.json
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.exe
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.deps.json
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.runtimeconfig.json
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.dll
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.pdb
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Humanizer.dll
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.dll
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.dll
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.dll
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.dll
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.pdb
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.pdb
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.pdb
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.AssemblyReference.cache
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfoInputs.cache
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfo.cs
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CoreCompileInputs.cache
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.BookCatalogApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.build.BookCatalogApi.props
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BookCatalogApi.props
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BookCatalogApi.props
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/scopedcss/bundle/BookCatalogApi.styles.css
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CopyComplete
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.dll
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/refint/BookCatalogApi.dll
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.pdb
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.genruntimeconfig.cache
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/ref/BookCatalogApi.dll
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.dll
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.dll
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+C:/Users/User/source/repos/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.json
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.exe
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.deps.json
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.runtimeconfig.json
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.dll
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.dll
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Humanizer.dll
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.dll
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.dll
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.dll
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.BookCatalogApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.build.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/scopedcss/bundle/BookCatalogApi.styles.css
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CopyComplete
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/refint/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.genruntimeconfig.cache
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/ref/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.exe
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.deps.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.runtimeconfig.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Humanizer.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.BookCatalogApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.build.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/scopedcss/bundle/BookCatalogApi.styles.css
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CopyComplete
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/refint/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.genruntimeconfig.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/ref/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/LazyCache.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/LazyCache.AspNetCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Pipelines.Sockets.Unofficial.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/StackExchange.Redis.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.exe
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.deps.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.runtimeconfig.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Humanizer.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/LazyCache.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/LazyCache.AspNetCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Pipelines.Sockets.Unofficial.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/StackExchange.Redis.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.BookCatalogApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.build.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/scopedcss/bundle/BookCatalogApi.styles.css
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CopyComplete
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/refint/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.genruntimeconfig.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/ref/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/refint/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.exe
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.deps.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.runtimeconfig.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Humanizer.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/LazyCache.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/LazyCache.AspNetCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Pipelines.Sockets.Unofficial.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/StackExchange.Redis.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.BookCatalogApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.build.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/scopedcss/bundle/BookCatalogApi.styles.css
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CopyComplete
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.genruntimeconfig.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/ref/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/refint/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.exe
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.deps.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.runtimeconfig.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Humanizer.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/LazyCache.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/LazyCache.AspNetCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Pipelines.Sockets.Unofficial.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/StackExchange.Redis.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.BookCatalogApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.build.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/scopedcss/bundle/BookCatalogApi.styles.css
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CopyComplete
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.genruntimeconfig.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/ref/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/refint/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.exe
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.deps.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.runtimeconfig.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Humanizer.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/LazyCache.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/LazyCache.AspNetCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Pipelines.Sockets.Unofficial.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/StackExchange.Redis.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.BookCatalogApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.build.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/scopedcss/bundle/BookCatalogApi.styles.css
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CopyComplete
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.genruntimeconfig.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/ref/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.exe
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.deps.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.runtimeconfig.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Humanizer.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/LazyCache.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/LazyCache.AspNetCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Pipelines.Sockets.Unofficial.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/StackExchange.Redis.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.BookCatalogApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.build.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/scopedcss/bundle/BookCatalogApi.styles.css
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CopyComplete
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/refint/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.genruntimeconfig.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/ref/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.exe
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.deps.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.runtimeconfig.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Humanizer.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/LazyCache.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/LazyCache.AspNetCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Pipelines.Sockets.Unofficial.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/StackExchange.Redis.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.BookCatalogApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.build.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/scopedcss/bundle/BookCatalogApi.styles.css
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CopyComplete
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/refint/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.genruntimeconfig.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/ref/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.exe
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.deps.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.runtimeconfig.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Humanizer.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/LazyCache.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/LazyCache.AspNetCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Pipelines.Sockets.Unofficial.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/StackExchange.Redis.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.BookCatalogApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.build.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/scopedcss/bundle/BookCatalogApi.styles.css
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CopyComplete
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/refint/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.genruntimeconfig.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/ref/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.exe
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.deps.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.runtimeconfig.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Humanizer.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/LazyCache.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/LazyCache.AspNetCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Pipelines.Sockets.Unofficial.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/StackExchange.Redis.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.BookCatalogApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.build.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/scopedcss/bundle/BookCatalogApi.styles.css
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CopyComplete
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/refint/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.genruntimeconfig.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/ref/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.exe
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.deps.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.runtimeconfig.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Humanizer.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/LazyCache.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/LazyCache.AspNetCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Pipelines.Sockets.Unofficial.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/StackExchange.Redis.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.BookCatalogApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.build.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/scopedcss/bundle/BookCatalogApi.styles.css
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CopyComplete
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/refint/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.genruntimeconfig.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/ref/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.exe
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.deps.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.runtimeconfig.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Humanizer.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/LazyCache.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/LazyCache.AspNetCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Pipelines.Sockets.Unofficial.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/StackExchange.Redis.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.BookCatalogApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.build.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/scopedcss/bundle/BookCatalogApi.styles.css
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CopyComplete
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/refint/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.genruntimeconfig.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/ref/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.exe
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.deps.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.runtimeconfig.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Humanizer.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/LazyCache.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/LazyCache.AspNetCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Pipelines.Sockets.Unofficial.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/StackExchange.Redis.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.BookCatalogApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.build.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/scopedcss/bundle/BookCatalogApi.styles.css
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CopyComplete
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/refint/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.genruntimeconfig.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/ref/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.exe
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.deps.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.runtimeconfig.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Humanizer.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/LazyCache.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/LazyCache.AspNetCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Pipelines.Sockets.Unofficial.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/StackExchange.Redis.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.BookCatalogApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.build.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/scopedcss/bundle/BookCatalogApi.styles.css
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CopyComplete
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/refint/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.genruntimeconfig.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/ref/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.exe
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.deps.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.runtimeconfig.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Humanizer.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/LazyCache.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/LazyCache.AspNetCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Pipelines.Sockets.Unofficial.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/StackExchange.Redis.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.BookCatalogApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.build.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/scopedcss/bundle/BookCatalogApi.styles.css
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CopyComplete
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/refint/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.genruntimeconfig.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/ref/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.exe
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.deps.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.runtimeconfig.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Humanizer.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/LazyCache.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/LazyCache.AspNetCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/MediatR.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/MediatR.Contracts.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Pipelines.Sockets.Unofficial.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/StackExchange.Redis.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.BookCatalogApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.build.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/scopedcss/bundle/BookCatalogApi.styles.css
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CopyComplete
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/refint/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.genruntimeconfig.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/ref/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.exe
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.deps.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.runtimeconfig.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Humanizer.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/LazyCache.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/LazyCache.AspNetCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/MediatR.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/MediatR.Contracts.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Pipelines.Sockets.Unofficial.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/StackExchange.Redis.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.BookCatalogApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.build.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BookCatalogApi.props
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/scopedcss/bundle/BookCatalogApi.styles.css
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CopyComplete
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/refint/BookCatalogApi.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.genruntimeconfig.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/ref/BookCatalogApi.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.Development.json
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/appsettings.json
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.deps.json
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.runtimeconfig.json
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/BookCatalogApi.pdb
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Humanizer.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/LazyCache.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/LazyCache.AspNetCore.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/MediatR.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/MediatR.Contracts.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.Caching.StackExchangeRedis.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Pipelines.Sockets.Unofficial.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/StackExchange.Redis.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.CodeDom.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Diagnostics.PerformanceCounter.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Application.pdb
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Infrastructure.pdb
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/bin/Debug/net7.0/Domain.pdb
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.AssemblyReference.cache
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfoInputs.cache
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.AssemblyInfo.cs
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CoreCompileInputs.cache
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.build.json
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.development.json
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.BookCatalogApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.build.BookCatalogApi.props
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BookCatalogApi.props
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BookCatalogApi.props
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/scopedcss/bundle/BookCatalogApi.styles.css
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/refint/BookCatalogApi.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.pdb
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.genruntimeconfig.cache
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/ref/BookCatalogApi.dll
+/Users/amirhon/Desktop/BookCatalogApi/BookCatalogApi/obj/Debug/net7.0/BookCatalogApi.csproj.CopyComplete

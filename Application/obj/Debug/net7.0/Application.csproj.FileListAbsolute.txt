@@ -1,0 +1,331 @@
+C:/Users/User/source/repos/BookCatalogApi/Application/bin/Debug/net7.0/Application.deps.json
+C:/Users/User/source/repos/BookCatalogApi/Application/bin/Debug/net7.0/Application.runtimeconfig.json
+C:/Users/User/source/repos/BookCatalogApi/Application/bin/Debug/net7.0/Application.dll
+C:/Users/User/source/repos/BookCatalogApi/Application/bin/Debug/net7.0/Application.pdb
+C:/Users/User/source/repos/BookCatalogApi/Application/bin/Debug/net7.0/Domain.dll
+C:/Users/User/source/repos/BookCatalogApi/Application/bin/Debug/net7.0/Domain.pdb
+C:/Users/User/source/repos/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+C:/Users/User/source/repos/BookCatalogApi/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/source/repos/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+C:/Users/User/source/repos/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+C:/Users/User/source/repos/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+C:/Users/User/source/repos/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+C:/Users/User/source/repos/BookCatalogApi/Application/obj/Debug/net7.0/Application.dll
+C:/Users/User/source/repos/BookCatalogApi/Application/obj/Debug/net7.0/refint/Application.dll
+C:/Users/User/source/repos/BookCatalogApi/Application/obj/Debug/net7.0/Application.pdb
+C:/Users/User/source/repos/BookCatalogApi/Application/obj/Debug/net7.0/Application.genruntimeconfig.cache
+C:/Users/User/source/repos/BookCatalogApi/Application/obj/Debug/net7.0/ref/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/Application/bin/Debug/net7.0/Application.deps.json
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/Application/bin/Debug/net7.0/Application.runtimeconfig.json
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/Application/bin/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/Application/bin/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/Application/bin/Debug/net7.0/Domain.dll
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/Application/bin/Debug/net7.0/Domain.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/Application/obj/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/Application/obj/Debug/net7.0/refint/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/Application/obj/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/Application/obj/Debug/net7.0/Application.genruntimeconfig.cache
+C:/Users/User/Desktop/PDP/PDP online dars/MODUL6.ASP.NET Core Web API Introduction/10/BookCatalogApi/Application/obj/Debug/net7.0/ref/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/Application/bin/Debug/net7.0/Application.deps.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/Application/bin/Debug/net7.0/Application.runtimeconfig.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/Application/bin/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/Application/bin/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/Application/bin/Debug/net7.0/Domain.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/Application/bin/Debug/net7.0/Domain.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/Application/obj/Debug/net7.0/refint/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.genruntimeconfig.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/BookCatalogApi/Application/obj/Debug/net7.0/ref/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/Application/bin/Debug/net7.0/Application.deps.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/Application/bin/Debug/net7.0/Application.runtimeconfig.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/Application/bin/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/Application/bin/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/Application/bin/Debug/net7.0/Domain.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/Application/bin/Debug/net7.0/Domain.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/Application/obj/Debug/net7.0/refint/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.genruntimeconfig.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/1/3/BookCatalogApi/Application/obj/Debug/net7.0/ref/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/Application/obj/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/Application/obj/Debug/net7.0/refint/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/Application/obj/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/Application/bin/Debug/net7.0/Application.deps.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/Application/bin/Debug/net7.0/Application.runtimeconfig.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/Application/bin/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/Application/bin/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/Application/bin/Debug/net7.0/Domain.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/Application/bin/Debug/net7.0/Domain.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/Application/obj/Debug/net7.0/Application.genruntimeconfig.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/2/BookCatalogApi/Application/obj/Debug/net7.0/ref/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/Application/bin/Debug/net7.0/Application.deps.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/Application/bin/Debug/net7.0/Application.runtimeconfig.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/Application/bin/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/Application/bin/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/Application/bin/Debug/net7.0/Domain.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/Application/bin/Debug/net7.0/Domain.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/Application/obj/Debug/net7.0/refint/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.genruntimeconfig.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/5/3/BookCatalogApi/Application/obj/Debug/net7.0/ref/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/Application/obj/Debug/net7.0/refint/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/Application/bin/Debug/net7.0/Application.deps.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/Application/bin/Debug/net7.0/Application.runtimeconfig.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/Application/bin/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/Application/bin/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/Application/bin/Debug/net7.0/Domain.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/Application/bin/Debug/net7.0/Domain.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.genruntimeconfig.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/1/BookCatalogApi/Application/obj/Debug/net7.0/ref/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/Application/bin/Debug/net7.0/Application.deps.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/Application/bin/Debug/net7.0/Application.runtimeconfig.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/Application/bin/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/Application/bin/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/Application/bin/Debug/net7.0/Domain.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/Application/bin/Debug/net7.0/Domain.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/Application/obj/Debug/net7.0/refint/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.genruntimeconfig.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/6/3/BookCatalogApi/Application/obj/Debug/net7.0/ref/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/Application/bin/Debug/net7.0/Application.deps.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/Application/bin/Debug/net7.0/Application.runtimeconfig.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/Application/bin/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/Application/bin/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/Application/bin/Debug/net7.0/Domain.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/Application/bin/Debug/net7.0/Domain.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/Application/obj/Debug/net7.0/refint/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.genruntimeconfig.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/1/BookCatalogApi/Application/obj/Debug/net7.0/ref/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/Application/bin/Debug/net7.0/Application.deps.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/Application/bin/Debug/net7.0/Application.runtimeconfig.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/Application/bin/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/Application/bin/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/Application/bin/Debug/net7.0/Domain.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/Application/bin/Debug/net7.0/Domain.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/Application/obj/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/Application/obj/Debug/net7.0/refint/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/Application/obj/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/Application/obj/Debug/net7.0/Application.genruntimeconfig.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/2/BookCatalogApi/Application/obj/Debug/net7.0/ref/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/Application/bin/Debug/net7.0/Application.deps.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/Application/bin/Debug/net7.0/Application.runtimeconfig.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/Application/bin/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/Application/bin/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/Application/bin/Debug/net7.0/Domain.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/Application/bin/Debug/net7.0/Domain.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/Application/obj/Debug/net7.0/refint/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.genruntimeconfig.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/7/3/BookCatalogApi/Application/obj/Debug/net7.0/ref/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/Application/bin/Debug/net7.0/Application.deps.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/Application/bin/Debug/net7.0/Application.runtimeconfig.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/Application/bin/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/Application/bin/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/Application/bin/Debug/net7.0/Domain.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/Application/bin/Debug/net7.0/Domain.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/Application/obj/Debug/net7.0/refint/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.genruntimeconfig.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/1/BookCatalogApi/Application/obj/Debug/net7.0/ref/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/Application/bin/Debug/net7.0/Application.deps.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/Application/bin/Debug/net7.0/Application.runtimeconfig.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/Application/bin/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/Application/bin/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/Application/bin/Debug/net7.0/Domain.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/Application/bin/Debug/net7.0/Domain.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/Application/obj/Debug/net7.0/refint/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.genruntimeconfig.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/8/3/BookCatalogApi/Application/obj/Debug/net7.0/ref/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/Application/bin/Debug/net7.0/Application.deps.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/Application/bin/Debug/net7.0/Application.runtimeconfig.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/Application/bin/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/Application/bin/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/Application/bin/Debug/net7.0/Domain.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/Application/bin/Debug/net7.0/Domain.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/Application/obj/Debug/net7.0/refint/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.genruntimeconfig.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/1/BookCatalogApi/Application/obj/Debug/net7.0/ref/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/Application/bin/Debug/net7.0/Application.deps.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/Application/bin/Debug/net7.0/Application.runtimeconfig.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/Application/bin/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/Application/bin/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/Application/bin/Debug/net7.0/Domain.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/Application/bin/Debug/net7.0/Domain.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/Application/obj/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/Application/obj/Debug/net7.0/refint/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/Application/obj/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/Application/obj/Debug/net7.0/Application.genruntimeconfig.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/2/BookCatalogApi/Application/obj/Debug/net7.0/ref/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/Application/bin/Debug/net7.0/Application.deps.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/Application/bin/Debug/net7.0/Application.runtimeconfig.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/Application/bin/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/Application/bin/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/Application/bin/Debug/net7.0/Domain.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/Application/bin/Debug/net7.0/Domain.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/Application/obj/Debug/net7.0/refint/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/Application/obj/Debug/net7.0/Application.genruntimeconfig.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/9/3/BookCatalogApi/Application/obj/Debug/net7.0/ref/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/Application/bin/Debug/net7.0/Application.deps.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/Application/bin/Debug/net7.0/Application.runtimeconfig.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/Application/bin/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/Application/bin/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/Application/bin/Debug/net7.0/Domain.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/Application/bin/Debug/net7.0/Domain.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/Application/obj/Debug/net7.0/refint/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/Application/obj/Debug/net7.0/Application.genruntimeconfig.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/1/BookCatalogApi/Application/obj/Debug/net7.0/ref/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/Application/bin/Debug/net7.0/Application.deps.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/Application/bin/Debug/net7.0/Application.runtimeconfig.json
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/Application/bin/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/Application/bin/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/Application/bin/Debug/net7.0/Domain.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/Application/bin/Debug/net7.0/Domain.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/Application/obj/Debug/net7.0/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/Application/obj/Debug/net7.0/refint/Application.dll
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/Application/obj/Debug/net7.0/Application.pdb
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/Application/obj/Debug/net7.0/Application.genruntimeconfig.cache
+C:/Users/User/Desktop/PDP/PDP online dars/Modul7/10/2/BookCatalogApi/Application/obj/Debug/net7.0/ref/Application.dll
+/Users/amirhon/Desktop/BookCatalogApi/Application/bin/Debug/net7.0/Application.deps.json
+/Users/amirhon/Desktop/BookCatalogApi/Application/bin/Debug/net7.0/Application.runtimeconfig.json
+/Users/amirhon/Desktop/BookCatalogApi/Application/bin/Debug/net7.0/Application.dll
+/Users/amirhon/Desktop/BookCatalogApi/Application/bin/Debug/net7.0/Application.pdb
+/Users/amirhon/Desktop/BookCatalogApi/Application/bin/Debug/net7.0/Domain.dll
+/Users/amirhon/Desktop/BookCatalogApi/Application/bin/Debug/net7.0/Domain.pdb
+/Users/amirhon/Desktop/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+/Users/amirhon/Desktop/BookCatalogApi/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amirhon/Desktop/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+/Users/amirhon/Desktop/BookCatalogApi/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+/Users/amirhon/Desktop/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+/Users/amirhon/Desktop/BookCatalogApi/Application/obj/Debug/net7.0/Application.dll
+/Users/amirhon/Desktop/BookCatalogApi/Application/obj/Debug/net7.0/refint/Application.dll
+/Users/amirhon/Desktop/BookCatalogApi/Application/obj/Debug/net7.0/Application.pdb
+/Users/amirhon/Desktop/BookCatalogApi/Application/obj/Debug/net7.0/Application.genruntimeconfig.cache
+/Users/amirhon/Desktop/BookCatalogApi/Application/obj/Debug/net7.0/ref/Application.dll
+/Users/amirhon/Desktop/BookCatalogApi/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+/Users/amirhon/Desktop/BookCatalogApi1/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+/Users/amirhon/Desktop/BookCatalogApi1/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amirhon/Desktop/BookCatalogApi1/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+/Users/amirhon/Desktop/BookCatalogApi1/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+/Users/amirhon/Desktop/BookCatalogApi1/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+/Users/amirhon/Desktop/BookCatalogApi1/Application/obj/Debug/net7.0/Application.dll
+/Users/amirhon/Desktop/BookCatalogApi1/Application/obj/Debug/net7.0/refint/Application.dll
+/Users/amirhon/Desktop/BookCatalogApi1/Application/obj/Debug/net7.0/Application.pdb
